@@ -29,7 +29,7 @@ var data = {
 		dayID: 1,
 		pervert: false,
 		color: "#86b4dc",
-		style: "syrup",
+		style: "basic",
 	},
 	achievements: [
 	],
